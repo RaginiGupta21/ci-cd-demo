@@ -3,3 +3,9 @@ body{
     text-align: center;
     margin-top: auto;
 }
+
+p{
+    font-size: 18px;
+    color: blue;
+    font-weight: bold;
+}
